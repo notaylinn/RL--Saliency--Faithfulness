@@ -110,23 +110,9 @@ pip install -r requirements.txt
 
 ## Running the Project
 
-Train an agent
+Experiments can be reproduced by executing the notebook:
 
-```bash
-python src/train.py
-```
-
-Generate saliency maps
-
-```bash
-python src/saliency.py
-```
-
-Run faithfulness evaluation
-
-```bash
-python src/perturbation_test.py
-```
+notebook/XAI-3.ipynb
 
 ---
 
@@ -143,10 +129,6 @@ paper/Faithfulness_of_Saliency_in_RL.pdf
 ## Citation
 
 If you find this repository useful, please cite:
-
-```bibtex
-Coming soon
-```
 
 ---
 
