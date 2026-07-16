@@ -72,6 +72,12 @@ Main findings include:
 - Small pilot studies may substantially underestimate explanation faithfulness because of insufficient statistical power.
 
 ---
+## Reproducibility
+
+Exact numerical values may vary slightly between runs because Deep Q-Network training and GridWorld initialization are stochastic processes. However, the qualitative conclusions reported in this repository remained stable across repeated experiments.
+
+---
+
 
 ## Repository Structure
 
@@ -99,7 +105,7 @@ assets/             Images and diagrams
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/faithfulness-rl-saliency.git
+git@github.com:notaylinn/RL--Saliency--Faithfulness.git
 
 cd faithfulness-rl-saliency
 
@@ -121,7 +127,7 @@ notebook/XAI-3.ipynb
 The complete research paper is available in:
 
 ```
-paper/Faithfulness_of_Saliency_in_RL.pdf
+
 ```
 
 ---
