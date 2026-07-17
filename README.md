@@ -124,12 +124,9 @@ notebook/XAI-3.ipynb
 
 ## Paper
 
-The complete research paper is available in:
+The complete research paper is available here:
 
-```
-
-```
-
+- [Research Paper](paper/Evaluating%20Faithfulness%20of%20Saliency%20Explanations%20in%20RL.pdf)
 ---
 
 ## Citation
